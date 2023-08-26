@@ -6,4 +6,4 @@ We provide our solution in tp1.c
 
 We used C language in this project
 
-You can findn our rapport in the .pdf file
+You can find our rapport in the .pdf file
